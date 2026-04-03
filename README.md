@@ -33,7 +33,7 @@
 
 - OS >= Windows10
 - [WebView](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/) >= 140  | WebView已经默认内置于Windows10/11中，一般情况下无需额外安装
-- 如果你不知道或者你的Webview的版本过旧，可以通过安装和升级Edege浏览器升级Webview版本
+- 关于WebView的版本，如果你不知道或者你的版本过旧，可以通过安装和升级[Edge](https://www.microsoft.com/en-us/edge)浏览器升级Webview版本
 
 ## 版本规则
 ```
