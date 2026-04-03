@@ -1,6 +1,10 @@
-# MediaCenter
+<p align="center">
+  <img src="screenshot/256.png" alt="MediaCenter Icon" width="120" />
+</p>
 
-基于Tauri2+Vue3
+<h1 align="center">MediaCenter</h1>
+
+<p align="center">基于 Tauri2 + Vue3</p>
 
 旨在改善肥宅生存环境，打造一站式多媒体阅读平台。说人话就是在一个程序中集成文本、图集、视频和音频的浏览和收藏功能。
 
