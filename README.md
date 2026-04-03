@@ -6,6 +6,27 @@
 
 <p align="center">基于 Tauri2 + Vue3</p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/platform-Windows%2010%2B-0078D6" alt="platform-windows10plus" />
+    <img src="https://img.shields.io/badge/license-Custom-lightgrey" alt="license-custom" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/line-current-6f42c1" alt="line-current" />
+  <img src="https://img.shields.io/badge/version-2.0.0-2ea44f" alt="version-2.0.0" />
+  <img src="https://img.shields.io/badge/status-alpha-orange" alt="status-alpha" />
+  <img src="https://img.shields.io/badge/framework-Vue%203-42B883" alt="framework-vue3" />
+  <img src="https://img.shields.io/badge/runtime-Electron%2041-47848F" alt="runtime-electron41" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/line-release%20v1.x-0969da" alt="line-release-v1" />
+  <img src="https://img.shields.io/badge/version-1.2.18-blue" alt="version-1.2.18" />
+  <img src="https://img.shields.io/badge/status-stable-success" alt="status-stable" />
+  <img src="https://img.shields.io/badge/framework-Vue%203-42B883" alt="framework-vue3" />
+  <img src="https://img.shields.io/badge/runtime-Tauri%202-24C8DB" alt="runtime-tauri2" />
+</p>
+
 旨在改善肥宅生存环境，打造一站式多媒体阅读平台。说人话就是在一个程序中集成文本、图集、视频和音频的浏览和收藏功能。
 
 ## 用前说明
