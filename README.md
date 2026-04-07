@@ -4,8 +4,6 @@
 
 <h1 align="center">MediaCenter</h1>
 
-<p align="center">基于 Tauri2 + Vue3</p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/platform-Windows%2010%2B-0078D6" alt="platform-windows10plus" />
     <img src="https://img.shields.io/badge/license-Custom-lightgrey" alt="license-custom" />
@@ -13,8 +11,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/line-current-6f42c1" alt="line-current" />
-  <img src="https://img.shields.io/badge/version-2.0.0-2ea44f" alt="version-2.0.0" />
-  <img src="https://img.shields.io/badge/status-alpha-orange" alt="status-alpha" />
+  <img src="https://img.shields.io/badge/version-2.1.1-2ea44f" alt="version-2.1.1" />
+  <img src="https://img.shields.io/badge/status-stable-success" alt="status-stable" />
   <img src="https://img.shields.io/badge/framework-Vue%203-42B883" alt="framework-vue3" />
   <img src="https://img.shields.io/badge/runtime-Electron%2041-47848F" alt="runtime-electron41" />
 </p>
@@ -57,8 +55,12 @@
 ## 需求
 
 - OS >= Windows10
-- [WebView](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/) >= 140  | WebView已经默认内置于Windows10/11中，一般情况下无需额外安装
-- 关于WebView的版本，如果你不知道或者你的版本过旧，可以通过安装和升级[Edge](https://www.microsoft.com/en-us/edge)浏览器升级Webview版本
+
+> **v2.0.0 起**，以下内容不再需要（v1.x 基于 Tauri 2 运行，依赖系统 WebView）：
+>
+> [WebView](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/) >= 140 
+> 
+>WebView 已默认内置于 Windows 10/11，一般无需额外安装。若版本过旧，可通过安装或升级 [Edge](https://www.microsoft.com/en-us/edge) 浏览器来更新 WebView 版本。
 
 ## 版本规则
 ```
