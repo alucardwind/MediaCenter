@@ -45,7 +45,7 @@ This program is currently in early development. Please do not use it as your pri
 
 Copyright © 2026 redonleft.com All Rights Reserved.
 
-## Why Open Source
+## Why Open
 
 - Looking for collaborators interested in this project who can design cool UIs
 - Can someone help me design an icon?
