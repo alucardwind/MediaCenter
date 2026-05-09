@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/line-current-6f42c1" alt="line-current" />
-  <img src="https://img.shields.io/badge/version-2.2.0-2ea44f" alt="version-2.1.1" />
+  <img src="https://img.shields.io/badge/version-2.2.0-2ea44f" alt="version-2.3.2" />
   <img src="https://img.shields.io/badge/status-stable-success" alt="status-stable" />
   <img src="https://img.shields.io/badge/framework-Vue%203-42B883" alt="framework-vue3" />
   <img src="https://img.shields.io/badge/runtime-Electron%2041-47848F" alt="runtime-electron41" />
@@ -26,6 +26,8 @@
 </p>
 
 旨在改善肥宅生存环境，打造一站式多媒体阅读平台。说人话就是在一个程序中集成文本、图集、视频和音频的浏览和收藏功能。
+
+> **v2.3.0 起**，启用新版FUI
 
 ## 用前说明
 
@@ -161,6 +163,8 @@ comic/
 ⚠ 收藏：加入收藏夹，收藏夹储存的是当前视频所在的文件夹内所有相关联文件，作为视频集收藏。
 
 也就是说即便在同一文件夹下，如果文件名没有关联，就不会加入当前视频集收藏。
+
+![](screenshot/v1.png)
 
 ### 音频
 

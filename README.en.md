@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/line-current-6f42c1" alt="line-current" />
-  <img src="https://img.shields.io/badge/version-2.2.0-2ea44f" alt="version-2.1.1" />
+  <img src="https://img.shields.io/badge/version-2.2.0-2ea44f" alt="version-2.3.2" />
   <img src="https://img.shields.io/badge/status-stable-success" alt="status-stable" />
   <img src="https://img.shields.io/badge/framework-Vue%203-42B883" alt="framework-vue3" />
   <img src="https://img.shields.io/badge/runtime-Electron%2041-47848F" alt="runtime-electron41" />
@@ -26,6 +26,8 @@
 </p>
 
 An all-in-one multimedia reading platform. In plain terms, it integrates text, image gallery, video, and audio browsing and bookmarking into a single application.
+
+> **Since v2.3.0**, the new FUI is enabled
 
 ## Before You Start
 
@@ -161,6 +163,8 @@ Use "Open Subtitle" to manually load additional subtitle files. All mainstream s
 ⚠ Bookmark: Adds all related files in the current video's folder to bookmarks as a video series bookmark.
 
 In other words, even within the same folder, files without a naming relationship will not be included in the current video series bookmark.
+
+![](screenshot/v1.png)
 
 ### Audio
 
