@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/line-current-6f42c1" alt="line-current" />
-  <img src="https://img.shields.io/badge/version-2.3-2ea44f" alt="version-2.3" />
+  <img src="https://img.shields.io/badge/version-2.4-2ea44f" alt="version-2.4" />
   <img src="https://img.shields.io/badge/status-stable-success" alt="status-stable" />
   <img src="https://img.shields.io/badge/framework-Vue%203-42B883" alt="framework-vue3" />
   <img src="https://img.shields.io/badge/runtime-Electron%2041-47848F" alt="runtime-electron41" />
@@ -186,3 +186,15 @@ comic/
 
 你当然可以在收藏模式下点击专辑内其他未收藏歌曲播放，但是播放完毕后会自动播放你的收藏夹内歌曲。同理，在专辑模式下，当你点击收藏夹内的歌曲播放后，会自动播放它所在专辑的其余歌曲。
 ![](screenshot/m1.png)
+
+### 设置
+
+通过右上角的齿轮图标按钮开启设置界面，在设置界面里可以进行如下设置
+
+1. 软件语言设置，目前支持中文和英文
+
+![](screenshot/s1.png)
+
+2. 明暗主题设置，可以设置明暗主题或者跟随系统
+
+![](screenshot/s2.png)

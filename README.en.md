@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/line-current-6f42c1" alt="line-current" />
-  <img src="https://img.shields.io/badge/version-2.3-2ea44f" alt="version-2.3" />
+  <img src="https://img.shields.io/badge/version-2.4-2ea44f" alt="version-2.4" />
   <img src="https://img.shields.io/badge/status-stable-success" alt="status-stable" />
   <img src="https://img.shields.io/badge/framework-Vue%203-42B883" alt="framework-vue3" />
   <img src="https://img.shields.io/badge/runtime-Electron%2041-47848F" alt="runtime-electron41" />
@@ -186,3 +186,15 @@ The program automatically retrieves audio file metadata to obtain cover art, son
 
 You can of course play unbookmarked songs from the album in favorites mode, but after they finish, the player will automatically continue with your bookmarked songs. Similarly, in album mode, when you play a bookmarked song, the player will automatically continue with the rest of that album.
 ![](screenshot/m1.png)
+
+### Settings
+
+Click the gear icon button in the top-right corner to open the settings panel, where you can configure the following:
+
+1. Application language — currently supports Chinese and English
+
+![](screenshot/s1.png)
+
+2. Light/dark theme — choose light, dark, or follow the system
+
+![](screenshot/s2.png)
