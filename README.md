@@ -97,9 +97,9 @@ C:\Users\你的用户名\AppData\Roaming\com.redonleft.mediacenter\
 
 ### 文本
 
-通过“打开文件”获取文本文件
+通过“打开文件”获取文本文件，目前支持txt，epub
 
-暂不支持pdf、epub、mobi、压缩包等二进制文件
+暂不支持pdf
 
 程序不依赖文件扩展名而是自动检测文本解码，具体请参照以下：
 

@@ -97,9 +97,9 @@ Displays copyright information.
 
 ### Text
 
-Open text files via "Open File".
+Open text files via "Open File". Currently supports TXT and EPUB.
 
-PDF, EPUB, MOBI, archives, and other binary files are not supported.
+PDF is not supported.
 
 The program does not rely on file extensions but automatically detects text encoding. See the following for details:
 
